@@ -2,11 +2,6 @@
 
 # Hi there, I'm Arshit Raj 👋
 ### 🚀 Aspiring Full Stack Developer | Creative Problem Solver | Storyteller
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
 </div>
 
 ---
@@ -47,7 +42,7 @@ Currently pursuing my **BCA**, I am deeply invested in mastering the modern web 
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
-*University/College Name Placeholder* | *Graduation: 2027*
+*Geeta University*  | *Graduation: 2027*
 * Focusing on Data Structures, Algorithms, and Web Development.
 
 ---
@@ -66,6 +61,6 @@ When I am not debugging or deploying, you will find me fueling my creativity thr
 ### 🤝 Let's Create Something Extraordinary
 I am open to collaborations, hackathons, and internship opportunities.
 
-[Email Me](mailto:YOUR_EMAIL@gmail.com) • [Connect on LinkedIn](YOUR_LINKEDIN_URL)
+[Email Me](mailto:rajarshit123@gmail.com) • [Connect on LinkedIn](www.linkedin.com/in/arshit-raj-938197339)
 
 </div>
