@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Arshit Raj 👋
-### 🚀 Aspiring Full Stack Developer | Creative Problem Solver | Storyteller
+### 🚀 Aspiring Full Stack Developer | Creative Problem Solver 
 </div>
 
 ---
@@ -61,6 +61,6 @@ When I am not debugging or deploying, you will find me fueling my creativity thr
 ### 🤝 Let's Create Something Extraordinary
 I am open to collaborations, hackathons, and internship opportunities.
 
-[Email Me](mailto:rajarshit123@gmail.com) • [Connect on LinkedIn](www.linkedin.com/in/arshit-raj-938197339)
+[Email Me](mailto:rajarshit123@gmail.com) 
 
 </div>
