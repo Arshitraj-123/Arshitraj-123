@@ -80,26 +80,6 @@ const arshit: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArshitRaj&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ArshitRaj)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Arshit's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArshitRaj&bg_color=0D1117&color=6AD9FB&line=6AD9FB&point=FFFFFF&area=true&hide_border=true)](https://github.com/ArshitRaj)
-
-</div>
-
----
-
 ## 💼 Experience
 
 <table>
@@ -146,28 +126,12 @@ const arshit: Developer = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArshitRaj/ArshitRaj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArshitRaj/ArshitRaj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArshitRaj/ArshitRaj/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 🤝 Let's Connect & Build Together
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajarshit123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ArshitRaj)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshitRaj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ArshitRaj.dev)
 
 <br/>
 
